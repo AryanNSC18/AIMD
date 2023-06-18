@@ -11,7 +11,6 @@ Welcome to AIMD, the Advanced Intelligence Mapping Device! AIMD is a compact rob
 3. Usage
 4. Examples
 5. Contributing
-6. License
 
 ## 1. Introduction
 
