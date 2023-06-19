@@ -1,8 +1,7 @@
 # AIMD
 AIMD(Advance intelligence mapping device)\
 
-Welcome to AIMD, the Advanced Intelligence Mapping Device! AIMD is a compact robotic ball equipped with advanced sensing capabilities, capable of detecting movement in all directions and identifying objects within a 360-degree radius. This README file will provide you with essential information to understand and utilize AIMD effectively.
-
+Welcome to AIMD, the Advanced Intelligence Mapping Device! AIMD is a compact robotic ball equipped with advanced sensing capabilities, capable of detecting movement in all directions and identifying objects within a 360-degree radius. 
 ## Table of Contents
 
 1. Introduction
@@ -12,8 +11,7 @@ Welcome to AIMD, the Advanced Intelligence Mapping Device! AIMD is a compact rob
 5. Contributing
 
 ## 1. Introduction
-![Uploading WhatsApp Image 2023-06-19 at 12.40.10.jpg…]()
-
+![WhatsApp Image 2023-06-19 at 12 40 10](https://github.com/AryanNSC18/AIMD/assets/112856996/e85438cb-550c-4693-980e-d514889980dc)
 
 AIMD (Advanced Intelligence Mapping Device) is a revolutionary robotic ball designed to provide comprehensive mapping and sensing capabilities in various domains. By leveraging its advanced sensor suite and intelligent algorithms, AIMD can effectively detect movement and identify objects in its surroundings.
 
