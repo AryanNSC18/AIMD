@@ -12,6 +12,8 @@ Welcome to AIMD, the Advanced Intelligence Mapping Device! AIMD is a compact rob
 5. Contributing
 
 ## 1. Introduction
+![Uploading WhatsApp Image 2023-06-19 at 12.40.10.jpg…]()
+
 
 AIMD (Advanced Intelligence Mapping Device) is a revolutionary robotic ball designed to provide comprehensive mapping and sensing capabilities in various domains. By leveraging its advanced sensor suite and intelligent algorithms, AIMD can effectively detect movement and identify objects in its surroundings.
 
