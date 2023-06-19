@@ -1,1 +1,1 @@
-* Guidelines soon to be published *
+* Guidelines soon to be published 
